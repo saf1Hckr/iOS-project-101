@@ -10,29 +10,29 @@ Time spent: **7** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] App displays a keyboard on the screen
-- [ ] When tapping on the keyboard, a letter is shown or deleted (letter selected)
-- [ ] User can play a basic version of Wordle, with different goal words each time
+- [✅] App displays a keyboard on the screen
+- [✅] When tapping on the keyboard, a letter is shown or deleted (letter selected)
+- [✅] User can play a basic version of Wordle, with different goal words each time
 
 The following **optional** features are implemented:
 
-- [ ] Improve and customize the user interface by adding a launchscreen and app icon
-- [ ] Run the app on a device rather than in the simulator
+- [✅] Improve and customize the user interface by adding a launchscreen and app icon
+- [❌] Run the app on a device rather than in the simulator
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!        
+- [❌] List anything else that you can get done to improve the app functionality!        
 
-## Video Walkthrough
+## GIF Preview
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+Here is a preview of my app
+ 
+- (https://imgur.com/a/ilShpqY).
 
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This app building was a little difficult as I have no previous background on Swift language but rather than it was actually a fun project. Also, selecting the logo part was hard. For the optional one of the option I could not do because I don't have an iPhone/iPad. I also use the Clideo.com for speedup my original video as the original video was too lengthy. 
 
 ## License
 
